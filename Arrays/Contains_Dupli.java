@@ -3,6 +3,7 @@
     Input: nums = [1,2,3,1]
     Output: true
 */
+
 import java.util.HashSet;
 
 public class Contains_Dupli {
