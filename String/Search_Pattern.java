@@ -7,6 +7,7 @@
     Explanation: 
     The string "birth" occurs at index 1 in text.
 */
+
 import java.util.ArrayList;
 
 public class Search_Pattern {
