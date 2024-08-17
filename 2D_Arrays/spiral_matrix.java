@@ -1,4 +1,4 @@
-/*--------------------------------Spiral Matrix---------------------------
+/*--------------------------------Spiral Matrix-------------------------------
  
     Given an m x n matrix, return all elements of the matrix in spiral order.
     Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
